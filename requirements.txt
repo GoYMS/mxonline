@@ -17,7 +17,7 @@ django-tinymce==2.8.0
 et-xmlfile==1.0.1
 future==0.18.2
 gedit==0.0.2
-httplib2==0.15.0
+httplib2==0.18.0
 idna==2.8
 jdcal==1.4.1
 jieba==0.39
