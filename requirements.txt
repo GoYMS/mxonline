@@ -24,7 +24,7 @@ jieba==0.39
 MarkupPy==1.14
 odfpy==1.4.0
 openpyxl==3.0.2
-Pillow==6.2.1
+Pillow==9.0.0
 PyMySQL==0.9.3
 pytz==2019.3
 PyYAML==5.2
